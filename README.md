@@ -1,6 +1,6 @@
 #San Antonio Open Data Initiative
 Create a user friendly dashboard to interact with SA2020 data.
-Raise the standard of open data and amke it more communicative.
+Raise the standard of open data and make it more communicative.
 
 # 3 Cs
 - Collecting 
